@@ -58,7 +58,7 @@ Figure 2. Log in using OTP
 | :--- | :--- |
 | PyCrypto | Library |
 | Python | Programming Language |
-|MySQL  | Database |
+|MongoDB  | Database |
 
 ## Task chart
 | Task | Phan Thị Hồng Nhung (21521250) | Đoàn Hải Đăng (21520679) | Lê Thanh Tuấn (21520518) |
