@@ -10,7 +10,7 @@ User authentication in websites.
 | Protected Assets | User's credentials |
 | Related-Party | Users, Web Application, Adversaries |
 | Security Goals | Prevent unauthorized access to user's accounts |
-| Research Objectives | High security, High performance, Integration capability, Reliability, Scalability |
+| Research Objectives | High security, Authentication, Reliability |
 
 ## Abstract
 In social media, it is important to protect user credentials in order to prevent fraudulent activities that can result in the theft of personal information. Hear are some ways to protect user credentials include:
@@ -43,17 +43,6 @@ Figure 2. Log in using OTP
 
 ## Deploy plan
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90460805/227756600-ee73fda6-398c-4110-bf71-e0740cbda8ea.png" alt="User Registration" width="300"/>
-  
-  <img src="https://user-images.githubusercontent.com/90460805/227756354-8f9904e5-a458-4213-adc5-e25aaeab3491.png" alt="User Registration" width="300"/>
-  
-  <img src="https://user-images.githubusercontent.com/90460805/227756247-19834a63-dfcf-4dd5-99ca-e33f8ee1d5fb.png" alt="OTP Verification" width="300"/>
-</p>
-<p align="center" dir="auto">
-Figure 3. Application Simulation 
-
-
 | **Target** | **Plan** |
 | :--- | :--- |
 | User Registration | The user registers with the system by providing their email address and phone number. |
@@ -70,7 +59,6 @@ Figure 3. Application Simulation
 | PyCrypto | Library |
 | Python | Programming Language |
 |MySQL  | Database |
-| Flask | Python Framework |
 
 ## Task chart
 | Task | Phan Thị Hồng Nhung (21521250) | Đoàn Hải Đăng (21520679) | Lê Thanh Tuấn (21520518) |
